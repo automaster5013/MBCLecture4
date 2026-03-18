@@ -1,0 +1,5 @@
+1. cursor IDE를 이용해서 코드를 작성(~~~~~html파일)
+
+2. Repository 생성
+
+3. Repository push
